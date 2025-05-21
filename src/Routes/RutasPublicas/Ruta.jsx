@@ -7,7 +7,7 @@ import { Api } from "../../pages/Api/Api";
 export function Rutas() {
   return (
     <>
-      <Menu></Menu>
+      <Menu/>
       <Routes>
         <Route path="/" element={<Home/>}></Route>
         <Route path="/Analitica" element={<Analitica/>}></Route>

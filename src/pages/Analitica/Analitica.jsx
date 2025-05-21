@@ -18,7 +18,7 @@ export function Analitica() {
                 <div className="card my-3 shadow h-100 padding 100">
                     <h3>Asistencia vs Medio de trasporte</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime facilis quos exercitationem natus neque, ipsum quas veniam vel cupiditate, nesciunt officia! Consectetur corporis perspiciatis mollitia odio qui reiciendis rerum dolor.
-
+                      
                     </p>
                     <img src="../../../../src/assets/Imagenes/graficabarras.webp" alt="barras" className="img-fluid"/>
                 </div>
